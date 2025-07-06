@@ -49,11 +49,11 @@ export default function About() {
           <div className="flex-1 space-y-6 text-gray-800">
             {/* Bio */}
             <p className="text-lg">
-              Hello! I’m Oga, a cybersecurity analyst passionate about threat
-              intelligence, proactive defense, and secure system design. I
-              specialize in building secure infrastructures and decoding threat
-              behavior using a mix of open-source tools and enterprise-grade
-              solutions.
+              Hello! I’m Ogadimma Chibuike, a cybersecurity analyst passionate
+              about threat intelligence, proactive defense, and secure system
+              design. I specialize in building secure infrastructures and
+              decoding threat behavior using a mix of open-source tools and
+              enterprise-grade solutions.
             </p>
 
             {/* Skills */}

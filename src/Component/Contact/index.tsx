@@ -1,4 +1,4 @@
-import { FaEnvelope, FaPhoneAlt, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
 
 export default function Contact() {
   return (
@@ -26,13 +26,6 @@ export default function Contact() {
                 className="hover:underline"
               >
                 ogadimmachibuike@gmail.com
-              </a>
-            </div>
-
-            <div className="flex items-center gap-3 text-pink-700">
-              <FaPhoneAlt className="text-xl" />
-              <a href="tel:+17038875926" className="hover:underline">
-                +1 (703) 887-5926
               </a>
             </div>
 

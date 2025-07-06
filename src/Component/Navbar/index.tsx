@@ -39,7 +39,7 @@ function NavBar() {
           href="#home"
           className="text-2xl font-bold text-pink-600 hover:text-pink-800 transition-colors duration-200"
         >
-          Oga💕
+          Ogadimma Chibuike💕
         </a>
 
         {/* Desktop Menu */}

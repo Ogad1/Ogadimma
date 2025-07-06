@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-pink-100 text-gray-700 py-6">
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} Oga the CyberGirl. All rights
+          &copy; {new Date().getFullYear()} Ogadimma Chibuike. All rights
           reserved.
         </p>
 
